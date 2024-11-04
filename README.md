@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sudheerdevu.vs3@gmail.com**
 
-- ⚡ Fun fact **im not funny!**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
