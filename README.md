@@ -118,12 +118,3 @@ I focus on measurable engineering truth across the compute stack.
 📧 sudheerdevu4work@gmail.com  
 🔗 https://linkedin.com/in/devu-sudheer  
 
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudheerdevu&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudheerdevu" />
-</p>
