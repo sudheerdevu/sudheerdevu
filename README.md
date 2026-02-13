@@ -1,82 +1,119 @@
 <h1 align="center">Devu Sudheer</h1>
-<h3 align="center">AI Performance & GPU Software Engineer | ROCm | ONNX Runtime | DirectML | Execution Providers</h3>
+<h3 align="center">AI Systems & Performance Engineer</h3>
+<h4 align="center">GPU Compute | ROCm | ONNX Runtime | Linux Kernel | Device Drivers | Data Science</h4>
 
 ---
 
-### 🚀 About Me
+## 🔬 Engineering Scope
 
-AI/GPU Software Engineer focused on performance engineering and large-scale inference benchmarking across GPU/NPU platforms.
+I work across the AI compute stack — from Linux systems and low-level driver fundamentals to GPU execution providers and model inference optimization.
 
-• Specialized in ONNX Runtime Execution Providers (DirectML, MIGraphX)  
-• ROCm ecosystem, HIP fundamentals & profiling (rocprof)  
-• End-to-end AI model benchmarking automation (LLMs + CV models)  
-• Windows ML & Linux-based AI validation  
-• Performance delta analysis (memory-bound vs compute-bound workloads)  
-• CI integration & structured reporting pipelines  
+My work includes:
 
-I work at the intersection of **AI models, GPU architecture, and performance truth.**
+• AI model benchmarking & performance validation  
+• ROCm ecosystem profiling & GPU analysis  
+• ONNX Runtime execution provider integration (DirectML / MIGraphX)  
+• Linux environment setup & debugging  
+• Kernel-space fundamentals & device driver experimentation  
+• Data-driven performance analytics  
 
----
-
-### 🧠 Core Focus Areas
-
-- Transformer & LLM inference optimization
-- Execution Provider integration
-- Graph-level performance analysis
-- Kernel profiling & bottleneck identification
-- Quantization awareness (INT8 / INT4)
-- Automation framework design for AI workloads
-- Cross-platform validation (Windows + Ubuntu)
+This is not “benchmark execution.”  
+This is systems-level AI workload engineering.
 
 ---
 
-### ⚙️ Technical Stack
+## 🧠 Core Domains
 
-**Languages**
-- C++
-- Python
-- C#
-- C (Foundational)
-
-**AI / ML**
+### 🧩 AI & ML Systems
 - ONNX Runtime
 - DirectML
 - MIGraphX
-- ROCm
-- HIP
-- Transformer Models (Llama, Qwen, Phi, BERT, CLIP)
-- ResNet / CV Models
+- Windows ML
+- Transformer models (Llama, Qwen, Phi, BERT)
+- Vision models (CLIP, ViT, ResNet)
+- Model graph understanding
+- Quantization awareness (INT8 / INT4)
+- Inference latency & throughput analysis
 
-**Performance & Tooling**
-- rocprof
-- PowerShell Automation
-- Jenkins CI/CD
-- CMake / Ninja
-- Linux (Ubuntu)
-- Windows 11
+### ⚙️ GPU & Performance Engineering
+- ROCm ecosystem
+- rocprof profiling
+- Memory-bound vs compute-bound classification
+- Wavefront execution concepts
+- Kernel performance investigation
+- GPU driver interaction awareness
+- Execution provider benchmarking
+- Cross-device (GPU/NPU) comparison workflows
+
+### 🐧 Linux & Low-Level Systems
+- Linux (Ubuntu) environment configuration
+- Kernel module fundamentals
+- Device driver experimentation (file_operations, loadable modules)
+- C-based systems programming
+- CMake toolchain debugging
+- Compiler & build troubleshooting
+
+### 📊 Data Science & Analytics
+- Python-based data analysis
+- Performance log aggregation
+- CSV-based reporting pipelines
+- Median / percentile inference tracking
+- Comparative delta reporting
+- Model performance visualization
+
+### 🛠 Automation & Infrastructure
+- Python automation frameworks
+- C++ inference harnesses
+- C# performance tools
+- PowerShell scripting
+- Jenkins CI/CD integration
+- Batch orchestration for multi-model runs
 
 ---
 
-### 📊 What I Build
+## 🏗 What I Build
 
-- Large-scale AI model benchmarking pipelines
-- Median inference latency measurement systems
-- CSV-based performance tracking dashboards
-- Model delta comparison frameworks
-- Cross-device validation automation (GPU / NPU)
-
----
-
-### 📈 Current Direction
-
-- Deep ROCm stack mastery  
-- Flash Attention & attention kernel optimization  
-- Graph fusion & quantization experimentation  
-- GPU architecture-level understanding  
+- End-to-end AI benchmarking pipelines
+- Automated regression validation systems
+- GPU profiling workflows using ROCm tools
+- Structured performance analysis dashboards
+- Cross-platform AI validation environments
+- Reproducible workload measurement frameworks
 
 ---
 
-### 📫 Contact
+## 🧭 Current Technical Trajectory
+
+- Deeper ROCm stack mastery
+- Attention-level optimization concepts
+- Graph-level operator fusion experimentation
+- Device-driver level system understanding
+- Kernel and hardware interaction fundamentals
+- AI workload performance standardization
+
+---
+
+## 🧰 Languages
+
+- C++
+- C
+- Python
+- C#
+- PowerShell
+
+---
+
+## 📈 Engineering Philosophy
+
+Performance without profiling is speculation.  
+Drivers without system awareness are fragile.  
+AI without measurement is marketing.
+
+I focus on measurable engineering truth across the compute stack.
+
+---
+
+## 📫 Contact
 
 📧 sudheerdevu4work@gmail.com  
 🔗 https://linkedin.com/in/devu-sudheer  
@@ -84,7 +121,7 @@ I work at the intersection of **AI models, GPU architecture, and performance tru
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sudheerdevu&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sudheerdevu&show_icons=true" />
 </p>
 
 <p align="center">
