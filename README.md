@@ -3,17 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **TFlite**
-
-- 🌱 I’m currently learning **c++ , TensorflowLite**
-
-- 👯 I’m looking to collaborate on **TFlite**
-
-- 🤝 I’m looking for help with **Tflite**
-
-- 💬 Ask me about **Data Science , Deeplearning**
-
-- 📫 How to reach me **sudheerdevu.vs3@gmail.com**
+- 📫 How to reach me **sudheerdevu4work@gmail.com**
 
 
 
