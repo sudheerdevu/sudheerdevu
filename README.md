@@ -1,23 +1,92 @@
-<h1 align="center">Hi 👋, I'm Devu Sudheer</h1>
-<h3 align="center">AI Performance Engineer – ROCm, ONNX, DirectML | GPU/NPU Execution Providers | End-to-End Benchmark Automation</h3>
+<h1 align="center">Devu Sudheer</h1>
+<h3 align="center">AI Performance & GPU Software Engineer | ROCm | ONNX Runtime | DirectML | Execution Providers</h3>
 
+---
 
+### 🚀 About Me
 
-- 📫 How to reach me **sudheerdevu4work@gmail.com**
+AI/GPU Software Engineer focused on performance engineering and large-scale inference benchmarking across GPU/NPU platforms.
 
+• Specialized in ONNX Runtime Execution Providers (DirectML, MIGraphX)  
+• ROCm ecosystem, HIP fundamentals & profiling (rocprof)  
+• End-to-end AI model benchmarking automation (LLMs + CV models)  
+• Windows ML & Linux-based AI validation  
+• Performance delta analysis (memory-bound vs compute-bound workloads)  
+• CI integration & structured reporting pipelines  
 
+I work at the intersection of **AI models, GPU architecture, and performance truth.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devu sudheer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devu sudheer" height="30" width="40" /></a>
+---
+
+### 🧠 Core Focus Areas
+
+- Transformer & LLM inference optimization
+- Execution Provider integration
+- Graph-level performance analysis
+- Kernel profiling & bottleneck identification
+- Quantization awareness (INT8 / INT4)
+- Automation framework design for AI workloads
+- Cross-platform validation (Windows + Ubuntu)
+
+---
+
+### ⚙️ Technical Stack
+
+**Languages**
+- C++
+- Python
+- C#
+- C (Foundational)
+
+**AI / ML**
+- ONNX Runtime
+- DirectML
+- MIGraphX
+- ROCm
+- HIP
+- Transformer Models (Llama, Qwen, Phi, BERT, CLIP)
+- ResNet / CV Models
+
+**Performance & Tooling**
+- rocprof
+- PowerShell Automation
+- Jenkins CI/CD
+- CMake / Ninja
+- Linux (Ubuntu)
+- Windows 11
+
+---
+
+### 📊 What I Build
+
+- Large-scale AI model benchmarking pipelines
+- Median inference latency measurement systems
+- CSV-based performance tracking dashboards
+- Model delta comparison frameworks
+- Cross-device validation automation (GPU / NPU)
+
+---
+
+### 📈 Current Direction
+
+- Deep ROCm stack mastery  
+- Flash Attention & attention kernel optimization  
+- Graph fusion & quantization experimentation  
+- GPU architecture-level understanding  
+
+---
+
+### 📫 Contact
+
+📧 sudheerdevu4work@gmail.com  
+🔗 https://linkedin.com/in/devu-sudheer  
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sudheerdevu&show_icons=true&theme=default" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudheerdevu&show_icons=true&locale=en&layout=compact" alt="sudheerdevu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sudheerdevu&show_icons=true&locale=en" alt="sudheerdevu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudheerdevu&" alt="sudheerdevu" /></p>
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudheerdevu" />
+</p>
