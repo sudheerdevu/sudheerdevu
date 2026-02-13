@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devu Sudheer</h1>
-<h3 align="center">I’m a passionate about Data science and i did B.Tech Computer Science Engineering student with a growing focus on Data Science, Machine Learning, and Embedded Systems. Currently, I’m diving deep into C++ for custom delegate development on TensorFlow Lite as part of a project for AMD, gaining hands-on experience with performance optimization and hardware acceleration.</h3>
+<h3 align="center">AI Performance Engineer – ROCm, ONNX, DirectML | GPU/NPU Execution Providers | End-to-End Benchmark Automation</h3>
 
 
 
